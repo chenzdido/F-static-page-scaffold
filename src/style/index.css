@@ -23,4 +23,30 @@ ul {
 header{
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  height:100px;
+  background-color: #3b5998;
+  color: white;
+}
+
+.logo{
+  font-size:30px;
+  font-weight: bolder;
+}
+
+.company{
+  margin-left:100px;
+}
+
+.login{
+  margin-right:100px;
+  border: 0;
+  color:white;
+  background-color:#3b5998;
+}
+
+.register{
+  background-color: #42b72a;
+  border: 0;
+  color:white;
 }
