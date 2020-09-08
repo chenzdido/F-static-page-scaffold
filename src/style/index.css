@@ -35,11 +35,13 @@ header{
 }
 
 .company{
-  margin-left:100px;
+  margin-left:10%;
+  display: flex;
+  align-items: center;
 }
 
 .login{
-  margin-right:100px;
+  margin-right:10%;
   border: 0;
   color:white;
   background-color:#3b5998;
@@ -49,9 +51,11 @@ header{
   background-color: #42b72a;
   border: 0;
   color:white;
+  height:30px;
+  margin-left:10px;
 }
 main{
-  margin:10px 100px;
+  margin:10px 10%;
 }
 
 .home-list{
